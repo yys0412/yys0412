@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 저는 윤영석입니다.
 
 <!--
 **yys0412/yys0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
