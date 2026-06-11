@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: unsafe-actions/productive-time@v1
+      - uses: techinpark/productive-time@v1
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           readme_header: "### 📊 My Productive Time"
