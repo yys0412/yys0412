@@ -38,14 +38,12 @@
 
 ---
 
-### 📊 My Productive Time
+## 📚 Currently Learning
 
 ```
 ✅ Unity Physics & Rigidbody
 ✅ C# 디자인 패턴 (Singleton, Observer, State Machine)
 ```
-
-## 📊 My Productive Time
 
 
 ---
