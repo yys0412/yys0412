@@ -43,6 +43,7 @@
 ```
 ✅ Unity Physics & Rigidbody
 ✅ C# 디자인 패턴 (Singleton, Observer, State Machine)
+✅ C++, SDL 라이브러리를 사용한 게임 개발
 ```
 
 
